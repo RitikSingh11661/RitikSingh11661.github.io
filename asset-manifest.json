@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2dcf8a27.css",
+    "main.js": "/static/js/main.146881ea.js",
+    "static/js/787.0b02471c.chunk.js": "/static/js/787.0b02471c.chunk.js",
+    "static/media/ritik.png": "/static/media/ritik.6e69613a9d68c5576764.png",
+    "index.html": "/index.html",
+    "main.2dcf8a27.css.map": "/static/css/main.2dcf8a27.css.map",
+    "main.146881ea.js.map": "/static/js/main.146881ea.js.map",
+    "787.0b02471c.chunk.js.map": "/static/js/787.0b02471c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dcf8a27.css",
+    "static/js/main.146881ea.js"
+  ]
+}
